@@ -26,6 +26,8 @@
 
 This guide is meant for learners who are new to software engineering. This will cover core computer and operating system tools such as keyboard shortcuts, trackpad gestures, and core plugins that will level up your productivity.
 
+<br>
+
 ## TOOLS
 
 <br>
